@@ -29,6 +29,3 @@ Package Requirements
 10. sklearn
 11. matplotlib
 
-
-datafile can be download from here
-https://www.dropbox.com/sh/v4ls25j7r5yr1q1/AAB0RrPx2aHS85ZtfsnNR8aVa?dl=0
